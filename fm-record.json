@@ -369,5 +369,201 @@
 		"oldSize": 157.9990234375,
 		"ratio": -0.027640598055516108,
 		"time(ms)": 11762
+	},
+	"a0d5e93d3771a8eb7ffc35828d1259c9": {
+		"relativePath": "src/assets/tutu/6.png",
+		"size": 7.0419921875,
+		"oldSize": 45.421875,
+		"ratio": -0.8449647402820777,
+		"time(ms)": 1942
+	},
+	"ac51837c525714f4d17c7d38e92b6d98": {
+		"relativePath": "src/assets/tutu/4.png",
+		"size": 9.5673828125,
+		"oldSize": 58.5166015625,
+		"ratio": -0.8365013935014436,
+		"time(ms)": 1981
+	},
+	"abc8920eba6dcf9845091c3ab13ab8b3": {
+		"relativePath": "src/assets/tutu/1.png",
+		"size": 9.0966796875,
+		"oldSize": 55.0390625,
+		"ratio": -0.8347232079489,
+		"time(ms)": 1988
+	},
+	"752c7e7b051fc4996d48da0bd04abb89": {
+		"relativePath": "src/assets/tutu/10.png",
+		"size": 7.54296875,
+		"oldSize": 48.8720703125,
+		"ratio": -0.8456589069837146,
+		"time(ms)": 1987
+	},
+	"6f6a8604ed3743ad3215dd4debf661ff": {
+		"relativePath": "src/assets/tutu/5.png",
+		"size": 7.484375,
+		"oldSize": 47.384765625,
+		"ratio": -0.8420510283994889,
+		"time(ms)": 1984
+	},
+	"43984a7f04a07c66a0cf2f024e07be7f": {
+		"relativePath": "src/assets/tutu/11.png",
+		"size": 10.146484375,
+		"oldSize": 62.921875,
+		"ratio": -0.8387447231189471,
+		"time(ms)": 1989
+	},
+	"31ca7b02e656c6077491ff0fa9e79680": {
+		"relativePath": "src/assets/tutu/12.png",
+		"size": 7.1533203125,
+		"oldSize": 43.009765625,
+		"ratio": -0.8336814858544117,
+		"time(ms)": 1988
+	},
+	"f97001967fcb9dacdbfc59a6ce8d9418": {
+		"relativePath": "src/assets/tutu/2.png",
+		"size": 5.064453125,
+		"oldSize": 33.8662109375,
+		"ratio": -0.8504570489345137,
+		"time(ms)": 1989
+	},
+	"1903144208450369b187bc43fb8876fd": {
+		"relativePath": "src/assets/tutu/13.png",
+		"size": 9.8583984375,
+		"oldSize": 57.9990234375,
+		"ratio": -0.830024751224933,
+		"time(ms)": 1991
+	},
+	"113ba4d59ae69be4747585f9c9957f63": {
+		"relativePath": "src/assets/tutu/9.png",
+		"size": 6.7958984375,
+		"oldSize": 41.728515625,
+		"ratio": -0.8371401825415399,
+		"time(ms)": 1988
+	},
+	"e27942e280fbc4365b40b9a8289c328b": {
+		"relativePath": "src/assets/tutu/3.png",
+		"size": 10.234375,
+		"oldSize": 63.1650390625,
+		"ratio": -0.8379740572965786,
+		"time(ms)": 1991
+	},
+	"2313ec1a1dc82c847cb66aaa688a49a4": {
+		"relativePath": "src/assets/tutu/7.png",
+		"size": 6.154296875,
+		"oldSize": 42.654296875,
+		"ratio": -0.8557168368515042,
+		"time(ms)": 2008
+	},
+	"d3ddc5a2b9d679d66472fe79ee0cd454": {
+		"relativePath": "src/assets/tutu/8.png",
+		"size": 6.95703125,
+		"oldSize": 43.30078125,
+		"ratio": -0.8393324312133514,
+		"time(ms)": 2017
+	},
+	"d9499a4b96b2cf77835eb976946d54e8": {
+		"relativePath": "src/assets/tutu2/3.png",
+		"size": 143.8505859375,
+		"oldSize": 407.5009765625,
+		"ratio": -0.6469932731181147,
+		"time(ms)": 13809
+	},
+	"fcd8bd39fae9e5ce1cf729ea24bcbe97": {
+		"relativePath": "src/assets/tutu2/15.png",
+		"size": 145.083984375,
+		"oldSize": 427.1650390625,
+		"ratio": -0.6603561361355411,
+		"time(ms)": 17549
+	},
+	"0cf47f6db15971ff02e85e8456d368c3": {
+		"relativePath": "src/assets/tutu2/11.png",
+		"size": 142.99609375,
+		"oldSize": 379.25,
+		"ratio": -0.6229503131179961,
+		"time(ms)": 18099
+	},
+	"2f08d3c08484dbbf80f267e2d490065d": {
+		"relativePath": "src/assets/tutu2/12.png",
+		"size": 152.302734375,
+		"oldSize": 394.6787109375,
+		"ratio": -0.6141095778558014,
+		"time(ms)": 18108
+	},
+	"a07881f2f37e0ea7db18c5c07b23c5f9": {
+		"relativePath": "src/assets/tutu2/4.png",
+		"size": 186.4306640625,
+		"oldSize": 525.1982421875,
+		"ratio": -0.6450280121159606,
+		"time(ms)": 18586
+	},
+	"051243e2b1e478e37f9eda6e16522092": {
+		"relativePath": "src/assets/tutu2/10.png",
+		"size": 171.919921875,
+		"oldSize": 455.1650390625,
+		"ratio": -0.6222910216718267,
+		"time(ms)": 18681
+	},
+	"d7d8cb7c19a7dd348a12059b71e5537a": {
+		"relativePath": "src/assets/tutu2/13.png",
+		"size": 112.8583984375,
+		"oldSize": 297.2197265625,
+		"ratio": -0.6202863122755484,
+		"time(ms)": 18749
+	},
+	"df5e59ead3f2359b27fe62ee34ae7a3c": {
+		"relativePath": "src/assets/tutu2/5.png",
+		"size": 170.5537109375,
+		"oldSize": 456.1416015625,
+		"ratio": -0.6260948127658754,
+		"time(ms)": 19051
+	},
+	"ae9dc37b36a09ff5076e32d94408708d": {
+		"relativePath": "src/assets/tutu2/14.png",
+		"size": 170.4189453125,
+		"oldSize": 453.3349609375,
+		"ratio": -0.6240772056051613,
+		"time(ms)": 19857
+	},
+	"0622c8bd67c8a8be2c6ebb905f960e43": {
+		"relativePath": "src/assets/tutu2/6.png",
+		"size": 159.4765625,
+		"oldSize": 489.7275390625,
+		"ratio": -0.674356555881479,
+		"time(ms)": 19918
+	},
+	"7f162e68570c98715cf2be1828332e34": {
+		"relativePath": "src/assets/tutu2/1.png",
+		"size": 216.1650390625,
+		"oldSize": 625.7470703125,
+		"ratio": -0.6545488595662996,
+		"time(ms)": 21088
+	},
+	"63c8f3d716ac3b4c2ce514e7cbda48e8": {
+		"relativePath": "src/assets/tutu2/9.png",
+		"size": 174.6416015625,
+		"oldSize": 463.42578125,
+		"ratio": -0.6231508719876598,
+		"time(ms)": 21446
+	},
+	"88ff36108fc032bf8c238955cabc474e": {
+		"relativePath": "src/assets/tutu2/2.png",
+		"size": 167.9892578125,
+		"oldSize": 428.025390625,
+		"ratio": -0.6075250172257232,
+		"time(ms)": 21525
+	},
+	"4d0e5c4786b1ffd611740df4e3d14665": {
+		"relativePath": "src/assets/tutu2/7.png",
+		"size": 162.072265625,
+		"oldSize": 442.3486328125,
+		"ratio": -0.6336096607905688,
+		"time(ms)": 21960
+	},
+	"d4ebfbea6eb4c76d962fd5ae7528f93b": {
+		"relativePath": "src/assets/tutu2/8.png",
+		"size": 226.6416015625,
+		"oldSize": 713.4462890625,
+		"ratio": -0.6823284316744893,
+		"time(ms)": 23378
 	}
 }
